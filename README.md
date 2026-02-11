@@ -24,3 +24,4 @@ The GitHub Actions workflow (`.github/workflows/build.yml`) builds the app for t
 ### Required Secrets
 
 - `AUTODEVICE_API_KEY` — your AutoDevice API key for uploading builds
+
